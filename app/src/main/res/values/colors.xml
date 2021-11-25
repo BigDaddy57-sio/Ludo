@@ -11,5 +11,8 @@
     <color name="violet">#52229e</color>
     <color name="bleuClair">#88e2ec</color>
     <color name="rose">#fadcfc</color>
+    <color name="noirNoir">#222222</color>
+    <color name="marron">#986B06</color>
+    <color name="marronFoncé">#734B09</color>
 
 </resources>
