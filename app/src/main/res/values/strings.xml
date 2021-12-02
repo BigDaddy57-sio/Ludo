@@ -31,4 +31,15 @@
     <!-- main-->
     <string name="txtSalut">Salut</string>
     <string name="txtPremiereUtilisation">Tu peux mettre à jour tes paramètres.</string>
+
+
+        <string name="init_mot">_ _ _ _ _ _ _</string>
+        <string name="nouvelle_partie">Nouvelle partie</string>
+        <string name="gagner">Tu as gagné</string>
+        <string name="perdu">Tu as perdu</string>
+        <string name="partie_terminé">La partie est terminé. Commence une nouvelle partie!</string>
+        <string name="affiche_mot">La mot était: #word#</string>
+        <string name="essaie_lettre">essaie une nouvelle lettre !</string>
+
+
 </resources>

@@ -7,6 +7,7 @@ public class Mot {
         nbPoints = pNbPoints;
     }
     public String getContenu() {
+
         return contenu;
     }
     public void setContenu(String contenu) {
